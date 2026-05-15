@@ -70,4 +70,3 @@ Visit the D-Lab homepage to learn more about upcoming workshops, consulting, dat
 ## Contributors
 
 - Lance Santana
-- [Add other contributors here]
